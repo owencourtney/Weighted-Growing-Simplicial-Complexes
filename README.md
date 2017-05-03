@@ -13,4 +13,4 @@ If you use this code please cite the following two papers:
 [1] O. T. Courtney and G. Bianconi, arXiv preprint, arXiv:1703.01187 (2017)
 [2] G. Bianconi, C. Rahmede  'Network geometry with flavor: From complexity to quantum geometry.' Physical Review E 93 032315 (2016).
 
-(c) Owen.T.Courtney (email: o.t.o.courtney@qmul.ac.uk )
+(c) Owen.T.Courtney (o.t.o.courtney@qmul.ac.uk )
